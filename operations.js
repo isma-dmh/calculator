@@ -1,6 +1,7 @@
 function add(a, b) {
     return a + b;
 }
+//soustraction de deux nombres
 function subtract(a, b) {
     return a - b;
 }
